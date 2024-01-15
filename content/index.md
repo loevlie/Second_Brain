@@ -19,12 +19,11 @@ Hello there! 👋 I'm Denny, a passionate Computer Vision Engineer in the exciti
 
 ## My Vault
 
-This Obsidian vault is a window into my world. It's where I compile my thoughts, research, and discoveries. Here's what you can expect:
+- [[Main AWS Note]]
+- [[Helpful Advice for Applying to Grad School]]
+- [[Tech Tips and Tricks]]
+- [[Obsidian + Quartz Tips]]
 
-- **Project Highlights**: Dive into my key projects ML applications.
-- **Research Notes**: Explore my notes on the latest in machine learning and computer vision.
-- **Learning Journey**: Follow my ongoing journey of learning and discovery in tech.
-- **Personal Reflections**: Get a glimpse of the person behind the code – my thoughts, musings, and experiences.
 
 ## Dive In!
 
