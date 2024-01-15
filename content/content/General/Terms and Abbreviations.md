@@ -1,0 +1,3 @@
+
+1. SOP - **Statement of Purpose** - Sometimes refereed to as a personal statement or statement of interest.  This is the main essay you will submit to most grad programs explaining your prior research experience, research goals, why that school and specific professors within that school align with those goals, and what you want to do after you obtain your degree.  
+2. SOTA - **State of the Art** - Usually referring to the best models that can be used for achieving the results in a task.

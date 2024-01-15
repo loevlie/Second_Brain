@@ -1,0 +1,1 @@
+Allows you to upload an image allowing other tools such as [[AWS Container Service]] to pull it back down and run it.  
