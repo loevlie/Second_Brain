@@ -1,4 +1,4 @@
-> [!tip] [Go Back to Denny's Portfolio Website](www.loevliedl.com)
+> [!tip]  [Go Back to Denny's Portfolio Website](https://www.loevliedl.com)
 
 > [!caution]
 > This was made at the end of January 2024 so it is very much a work in progress.  Check back for updates!
