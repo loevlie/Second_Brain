@@ -16,7 +16,7 @@ Hello there! 👋 I'm Denny, a passionate Computer Vision Engineer in the exciti
 
 💻 **The Developer:** Coding is my art form. Whether it's crafting efficient algorithms or building robust systems, I believe in writing code that matters.
 
-🌍 **Making a Difference:** Ultimately, my work is about making a difference. Be it through environmental monitoring, disaster response, or advancing scientific research, I strive to use my skills for the greater good.
+🌍 **Making a Difference:** Ultimately, my work is about making a difference. Be it through my previous environmental research funded by the EPA, creating free skin cancer diagnosis options, helping people give personal gifts, or advancing scientific research, I strive to use my skills for the greater good.
 
 ## My Vault
 
