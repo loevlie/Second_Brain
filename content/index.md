@@ -46,8 +46,8 @@ Thank you for visiting, and let's connect the dots together in this incredible j
 
 ## Latest Updates
 
-- **[GiftyAI](https://gifty.com.co/)**: My first venture as a *technical co-founder*, this company hopes to use generative AI and computer vision to improve the way we give gifts.  The start of this is personalized cards with user prompted generative images.  The next big goal is to use the newest advancements in image similarity to help people ensure they are getting the right gifts (whatever they might be).
-- **[TeUAS](https://www.duality.ai/blog/kef-robotics-tethered-drones#:~:text=The%20KEF%20team%20took%20on,demonstrations%20in%20diverse%20operational%20environments.)**: Discover my recent work on improving drone hazard avoidance using deep learning.  I was the lead machine learning engineer on this project.
+- **[GiftyAI](https://gifty.com.co/)**: My first venture as a **technical founder**, this company uses generative AI and computer vision to improve the way we give gifts.  The start of this is personalized cards with user prompted generated images.  The next goal is to use the newest advancements in image similarity to help people ensure they are getting choose the right gifts for eachother.
+- **[TeUAS](https://www.duality.ai/blog/kef-robotics-tethered-drones#:~:text=The%20KEF%20team%20took%20on,demonstrations%20in%20diverse%20operational%20environments.)**: Discover my recent work on improving tethered drone hazard avoidance using deep learning.  I was the lead machine learning engineer on this project.  One of the most difficult 
 - **[Intro to Deep Learning and ML](https://medium.com/towards-data-science/logistic-regression-with-pytorch-3c8bbea594be)**: Check out one of my favorite tutorials I've made on deep learning - perfect for beginners!
 - **[Pittsburgh Tech/Robotics Community Talk](https://xchangepgh2023.sched.com/event/1LdC7/an-interactive-exploration-of-computer-vision-for-unmanned-aerial-vehicles-uavs)**: I recently spoke at XChangeInnovation about SOTA deep learning applications for aerial autonomy.
 
