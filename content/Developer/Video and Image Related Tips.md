@@ -6,7 +6,7 @@
 ```
 
 
-### Finding the unique RGB values in a numpy array:
+### Finding the unique RGB values in a numpy array (useful for working with semantic segmentation masks):
 
 ```python
 np.unique(img.reshape(-1, img.shape[2]), axis=0)
