@@ -25,3 +25,11 @@ def MAX_HEAPIFY(A, i):
 ```
 
 ![[Pasted image 20240923121246.png]]
+
+# Time Complexity 
+
+$\Theta (1)$ to compute the relationship between $A[i]$ and the two children plus the time it takes to run MAX_HEAPIFY on the subtree (the recursion).  The children's subtrees each have size at most $2n/3$ so the run time of MAX_HEAPIFY is:
+
+$T(n) \leq T(\frac{2n}{3}) + \Theta (1)$ 
+
+This is an example of case 2 of the [[Algorithms/Master Theorem|Master Theorem]] so the solution is $T(n) = O(lgn)$ 
