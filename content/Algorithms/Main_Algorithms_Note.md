@@ -3,3 +3,4 @@
 # Concepts (DS&A)
 
 - [[Heaps]]
+	- [[MAX-HEAPIFY]]

@@ -34,3 +34,4 @@ There are *two* types of heaps but each type has a *heap priority*.
 - The **HEAPSORT** procedure, which runs in $O(nlgn)$ time, sorts an array in
 place.
 - The procedures **MAX-HEAP-INSERT, MAX-HEAP-EXTRACT-MAX, MAXHEAP-INCREASE-KEY, and MAX-HEAP-MAXIMUM** allow the heap data structure to implement a priority queue. They run in $O(lgn)$ time plus the time for mapping between objects being inserted into the priority queue and indices in the heap. 
+
