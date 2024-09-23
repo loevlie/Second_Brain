@@ -1,12 +1,12 @@
 > [!tip]  [Click Here to Go Back to Denny's Portfolio Website](https://www.loevliedl.com)
 
 > [!caution]
-> This was made at the end of Feb 2024 so it is very much a work in progress.  Check back for updates!
+> This was made at the end of Sep 2024 so it is very much a work in progress.  Check back for updates!
 > 
 
 # Welcome to My Digital Brain 🧠
 
-Hello there! 👋 I'm Denny, a passionate Computer Vision Engineer in the exciting field of autonomous aerial robotics. I'm deeply immersed in the world of machine learning, deep learning, and software development. My mission? To make a meaningful impact in the world through the power of ML.
+Hello there! 👋 I'm Denny, a passionate AI researcher working on getting my M.S. in Computer Science at Tufts University. I'm deeply immersed in the world of machine learning, deep learning, and software development. My mission? To make a meaningful impact in the world through applied ML and to push the boundaries of the field through research.
 
 ## About Me
 
@@ -21,6 +21,7 @@ Hello there! 👋 I'm Denny, a passionate Computer Vision Engineer in the exciti
 ## My Vault
 
 - [[Main AWS Note]]
+- [[Algorithms/Main_Algorithms_Note]]
 - [[Helpful Advice for Applying to Grad School]]
 - [[Tech Tips and Tricks]]
 - [[Obsidian + Quartz Tips]]
