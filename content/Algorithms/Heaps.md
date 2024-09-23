@@ -30,7 +30,7 @@ There are *two* types of heaps but each type has a *heap priority*.
 **Height of a node** - the longest simple downward path from the node to a leaf.  The height of a tree is the height from the root node.  A heap of n elements has a height of $\Theta (lg n)$ and basic operations on heaps run in time at most proportional to the height of the tree.  Thus they take $O (lg n)$ time. 
 
 - The [[Algorithms/MAX-HEAPIFY|MAX-HEAPIFY]] procedure, which runs in $O(lgn)$ time, is the key to maintaining the max-heap property.
-- The **BUILD-MAX-HEAP** procedure, which runs in linear time, produces a maxheap from an unordered input array.
+- The [[Algorithms/BUILD-MAX-HEAP|BUILD-MAX-HEAP]] procedure, which runs in linear time, produces a maxheap from an unordered input array.
 - The **HEAPSORT** procedure, which runs in $O(nlgn)$ time, sorts an array in
 place.
 - The procedures **MAX-HEAP-INSERT, MAX-HEAP-EXTRACT-MAX, MAXHEAP-INCREASE-KEY, and MAX-HEAP-MAXIMUM** allow the heap data structure to implement a priority queue. They run in $O(lgn)$ time plus the time for mapping between objects being inserted into the priority queue and indices in the heap. 
