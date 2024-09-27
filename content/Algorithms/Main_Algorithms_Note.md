@@ -5,4 +5,5 @@
 - [[Heaps]]
 	- [[MAX-HEAPIFY]]
 - [[Selection Problems]]
+- [[quicksort]]
 - [[Useful collections of facts for Exam 1]]
