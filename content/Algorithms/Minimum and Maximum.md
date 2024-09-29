@@ -20,6 +20,8 @@ We can obtain a min and max in $\Theta (n)$ comparisons.  We could just find the
 
 **If $n$ is odd** - Set both the min and max to the first element. 
 
-**If $n$ is odd** - Compare the first two elements and set the lower to the min and the higher to the max.  
+**If $n$ is even** - Compare the first two elements and set the lower to the min and the higher to the max.  
 
-Either way you still have $3 floor(n/2)$ comparisons.  If n is even, you have 1 initial comparison followed by another $\frac{3(n-2)}{2}$ comparisons, for a total of $\frac{3n}{2} - 2$.  
+Either way you still have $3 \times floor(n/2)$ comparisons.  If n is even, you have 1 initial comparison followed by another $\frac{3(n-2)}{2}$ comparisons, for a total of $\frac{3n}{2} - 2$.  
+
+
