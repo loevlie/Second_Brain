@@ -6,9 +6,10 @@ It takes an upper bound and lower bound of $n - 1$ comparisons to obtain a minim
 ```python
 def minimum(A):
 	n = len(A)
+	min = A[0]
 	for i in range(1, n):
 		if min > A[i]:
-			return A[i]
+			min = A[i]
 	return min
 ```
 
