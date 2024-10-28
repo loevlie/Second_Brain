@@ -8,7 +8,7 @@
 # First Steps (Make a Repository)
 
 1. We need an inference notebook that we can load models into and submit results
-	1. Probably using the [`polars`](https://pola.rs/) library
+	1. Probably using the [polars](https://pola.rs/) library
 	2. Should try and modularize any sections that might change. 
 		1. e.g. feature engineering, model evaluation (f(x) --> y)
 2. New folder for each "experiment"
