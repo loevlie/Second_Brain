@@ -5,7 +5,9 @@
 - Probabilistic transformer-based forecasting - https://huggingface.co/blog/time-series-transformers
 
 
-# First Steps (Make a Repository)
+# First Steps 
+
+The GitHub repository we can work with is [here](https://github.com/loevlie/JaneStreetCompetition_Tufts)
 
 1. We need an inference notebook that we can load models into and submit results
 	1. Probably using the [polars](https://pola.rs/) library
@@ -17,6 +19,6 @@
 
 # Progress
 
-| Date | Description | Result |
-| ---- | ----------- | ------ |
-|      |             |        |
+| Date       | Description               | Result |
+| ---------- | ------------------------- | ------ |
+| 10/28/2024 | GitHub Repository Created | NA     |
