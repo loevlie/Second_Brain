@@ -12,7 +12,7 @@ Hello there! 👋 I'm Denny, a passionate AI researcher working on getting my M.
 
 🤖 **The Engineer:** At the heart, I'm an engineer driven by the challenge of solving complex problems. From 2017 to 2019, I worked on optimization and modeling, then at Carnegie Mellon (2020) I found a passion for ML and the wide variety of applications it has.  My optimization and modeling background provided a great foundation for my future ML work.   
 
-🧠 **The ML Enthusiast:** I'm fascinated by the potential of machine learning and deep learning. These aren't just tools for me; they're gateways to endless possibilities that can reshape our future.  I'm currently intrigued by multimodel models because I believe that area of research has a lot of potential due to the shortfalls of multimodel models (e.g., https://arxiv.org/abs/2502.09696.) 
+🧠 **The ML Enthusiast:** I'm fascinated by the potential of machine learning and deep learning. These aren't just tools for me; they're gateways to endless possibilities that can reshape our future.  I'm currently intrigued by multimodel models because I believe that area of research has a lot of potential due to current shortfalls in SOTA models (e.g., https://arxiv.org/abs/2502.09696.) 
 
 💻 **The Developer:** I've enjoyed taking complex ideas and turning them into simple, reusable code since I wrote my first `print('hello world')`.  That's been around **10 years** now so I think I've found a lifelong hobby in code.  
 
