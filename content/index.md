@@ -1,7 +1,7 @@
 > [!tip]  [Click Here to Go Back to Denny's Portfolio Website](https://www.loevliedl.com)
 
 > [!caution]
-> This was made at the end of Sep 2024 so it is very much a work in progress.  Check back for updates!
+> This was made at the end of Oct 2024 so it is very much a work in progress.  Check back for updates!
 > 
 
 # Welcome to My Digital Brain 🧠
@@ -10,13 +10,13 @@ Hello there! 👋 I'm Denny, a passionate AI researcher working on getting my M.
 
 ## About Me
 
-🤖 **The Engineer:** At the heart, I'm an engineer driven by the challenge of solving complex problems. My journey in autonomous aerial robotics is fueled by a blend of creativity, technical expertise, and a relentless pursuit of innovation.
+🤖 **The Engineer:** At the heart, I'm an engineer driven by the challenge of solving complex problems. From 2017 to 2019, I worked on optimization and modeling, then at Carnegie Mellon (2020) I found a passion for ML and the wide variety of applications it has.  My optimization and modeling background provided a great foundation for my future ML work.   
 
-🧠 **The ML Enthusiast:** I'm fascinated by the potential of machine learning and deep learning. These aren't just tools for me; they're gateways to endless possibilities that can reshape our future.
+🧠 **The ML Enthusiast:** I'm fascinated by the potential of machine learning and deep learning. These aren't just tools for me; they're gateways to endless possibilities that can reshape our future.  I'm currently intrigued by multimodel models because I believe that area of research has a lot of potential due to the shortfalls of multimodel models (e.g., https://arxiv.org/abs/2502.09696.) 
 
-💻 **The Developer:** Coding is my art form. Whether it's crafting efficient algorithms or building robust systems, I believe in writing code that matters.
+💻 **The Developer:** I've enjoyed taking complex ideas and turning them into simple, reusable code since I wrote my first `print('hello world')`.  That's been around **10 years** now so I think I've found a lifelong hobby in code.  
 
-🌍 **Making a Difference:** Ultimately, my work is about making a difference. Be it through my previous environmental research funded by the EPA, creating free skin cancer diagnosis options, helping people give personal gifts, or advancing scientific research, I strive to use my skills for the greater good.
+🌍 **Making a Difference:** Ultimately, my work is about making a difference. It doesn't need to change the world, but pushing a the boundaries of research so others can innovate on my work, or making a small part of a process more efficient to save others time.  If my work can help others in any way, I find it fulfilling, and it drives me to strive for excellence.  
 
 ## My Vault
 
@@ -35,26 +35,21 @@ Feel free to explore my vault. Whether you're a fellow tech enthusiast, a curiou
 
 ---
 
-Thank you for visiting, and let's connect the dots together in this incredible journey of technology and innovation!
-
----
-
 🔗 **Connect with Me**
 - [LinkedIn](https://www.linkedin.com/in/dennisloevlie/)
 - [GitHub](https://github.com/loevlie)
 - [Personal Blog](https://medium.com/@dennyloevlie)
 - [Twitter](https://twitter.com/DennisLoevlie)
 
-## Latest Updates
+## Some Links
 
-- **[GiftyAI](https://gifty.com.co/)**: My first venture as a **technical founder**, this company uses generative AI and computer vision to improve the way we give gifts.  The start of this is personalized cards with user prompted generated images.  The next goal is to use the newest advancements in image similarity to help people ensure they are getting choose the right gifts for eachother.
 - **[TeUAS](https://www.duality.ai/blog/kef-robotics-tethered-drones#:~:text=The%20KEF%20team%20took%20on,demonstrations%20in%20diverse%20operational%20environments.)**: Discover my first project at KEF Robotics on improving tethered drone hazard avoidance using deep learning.  I was the lead machine learning engineer on this project.  One of the most difficult problems was power line avoidance.  I was able to select, train, and implement a transformer based segmentation model that allowed our team to accurately avoid power lines.
 - **[Intro to Deep Learning and ML](https://medium.com/towards-data-science/logistic-regression-with-pytorch-3c8bbea594be)**: Check out one of my favorite tutorials I've made on deep learning - perfect for beginners!
 - **[Pittsburgh Tech/Robotics Community Talk](https://xchangepgh2023.sched.com/event/1LdC7/an-interactive-exploration-of-computer-vision-for-unmanned-aerial-vehicles-uavs)**: I recently spoke at XChangeInnovation about SOTA deep learning applications for aerial autonomy.
 
 ## Interested in Collaborating?
 
-I'm always open to new ideas, projects, or just a chat about the future of technology. Feel free to reach out if you're interested in collaborating or sharing ideas!
+I'm always open to new ideas, projects, or just a talk ML. Feel free to reach out if you're interested in collaborating or sharing ideas!
 
 📧 Email Me - loevliedenny@gmail.com
 
