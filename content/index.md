@@ -16,7 +16,7 @@ Hello there! 👋 I'm Denny, a passionate AI researcher working on getting my M.
 
 💻 **The Developer:** I've enjoyed taking complex ideas and turning them into simple, reusable code since I wrote my first `print('hello world')`.  That's been around **10 years** now so I think I've found a lifelong hobby in code.  
 
-🌍 **Making a Difference:** Ultimately, my work is about making a difference. It doesn't need to change the world, but pushing a the boundaries of research so others can innovate on my work, or making a small part of a process more efficient to save others time.  If my work can help others in any way, I find it fulfilling, and it drives me to strive for excellence.  
+🌍 **Making a Difference:** Ultimately, my work is about making a difference. It doesn't need to change the world, but pushing the boundaries of research so others can innovate on my work, or making a small part of a process more efficient to save others time.  If my work can help others in any way, I find it fulfilling, and it drives me to strive for excellence.  
 
 ## My Vault
 
